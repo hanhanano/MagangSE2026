@@ -26,7 +26,7 @@ Repository ini berisi dokumentasi dan laporan kegiatan magang dalam rangka **Sen
 
 ## Isi Repository
 
-- `Laporan Magang SE 2026/` - laporan kegiatan magang
+- `Laporan Magang SE 2026` - laporan kegiatan magang
 - `Dokumentasi Lapangan/` - dokumentasi kegiatan selama pendataan
 - `Peta/` - peta wilayah penugasan
 - `Surat Tugas/` - dokumen penugasan
