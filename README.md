@@ -26,13 +26,13 @@ Repository ini berisi dokumentasi dan laporan kegiatan magang dalam rangka **Sen
 
 ## Isi Repository
 
-- `Laporan Magang SE 2026/` — laporan kegiatan magang
-- `Dokumentasi Lapangan/` — dokumentasi kegiatan selama pendataan
-- `Peta/` — peta wilayah penugasan
-- `Surat Tugas/` — dokumen penugasan
-- `Surat Keterangan Penyelesaian Tugas/` — dokumen penyelesaian kegiatan
-- `Kepengurusan Karang Tengah/` — dokumen pendukung wilayah
-- `Template/` — dokumen dan template pendukung
+- `Laporan Magang SE 2026/` - laporan kegiatan magang
+- `Dokumentasi Lapangan/` - dokumentasi kegiatan selama pendataan
+- `Peta/` - peta wilayah penugasan
+- `Surat Tugas/` - dokumen penugasan
+- `Surat Keterangan Penyelesaian Tugas/` - dokumen penyelesaian kegiatan
+- `Kepengurusan Karang Tengah/` - dokumen pendukung wilayah
+- `Template/` - dokumen dan template pendukung
 
 ## Ringkasan
 
@@ -40,5 +40,5 @@ Kegiatan magang dilaksanakan melalui keterlibatan langsung dalam pendataan lapan
 
 ---
 
-**Politeknik Statistika STIS — Komputasi Statistik**  
+**Politeknik Statistika STIS - Komputasi Statistik**  
 **Sensus Ekonomi 2026**
